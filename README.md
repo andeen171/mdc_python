@@ -1,1 +1,1 @@
-# MDC Calculator
+# Calculadora de MDC | GCD Calculator
