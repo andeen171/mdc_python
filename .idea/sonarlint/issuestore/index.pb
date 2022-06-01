@@ -1,10 +1,6 @@
 
-E
-qtquickcontrols2.conf,5\1\518ca0829ff7a4867ab8e0acaf4226f0759b2b2c
+8
+tests.py,5\f\5f0316cda8d9317a3982eee7fe909a0b0de59630
 :
 
-qmlmodules,d\6\d63cd3ae4b0310c0872407405aac168f7fc108a5
->
-Mdc.qmlproject,1\5\15b28132abc1d2914f410d3f750edb8e3b8dddf0
->
-CMakeLists.txt,9\a\9a2aa4db38d3115ed60da621e012c0efc0172aae
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
