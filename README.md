@@ -1,1 +1,1 @@
-# mdc_python
+# MDC Calculator
